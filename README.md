@@ -3,26 +3,48 @@
 <h3 align="center">A passionate Cybersecurity Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61d655039bf8b853fa33d08f0237a83db2e5c78da6d564535a000e5825b8f6e7/68747470733a2f2f626c6f672e696d617274696375732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032312f31322f646a62776766772e676966">
 
-*🔐 About Me*
+## 🔐 About Me
+ 
 I'm a cybersecurity professional with hands-on SOC Analyst experience, specialising in threat detection, SIEM-based monitoring, and incident response. My background combines a strong academic foundation with real-world security operations — monitoring live payment systems, triaging security events, and conducting vulnerability assessments.
-I bring an engineering mindset to security: structured, methodical, and focused on measurable outcomes. Currently completing CompTIA Security+ (SY0-701) and actively targeting SOC and cybersecurity operations roles in the UK.
+ 
+I bring an engineering mindset to security: structured, methodical, and focused on measurable outcomes. Currently completing **CompTIA Security+ (SY0-701)** and actively targeting SOC and cybersecurity operations roles in the UK.
+ 
+---
+ 
+## 🛠️ Technical Skills
+ 
+| Category | Tools & Technologies |
+|---|---|
+| **SIEM & Monitoring** | Splunk, Log Analysis, Alert Triage, IDS/IPS |
+| **Network Security** | Wireshark, Nmap, TCP/IP, DNS, Firewall Concepts |
+| **Vulnerability Management** | OpenVAS, Nmap, Burp Suite, Pen Testing |
+| **Digital Forensics** | Autopsy, Volatility 3, Memory Forensics, Timeline Analysis |
+| **Scripting** | Python, Bash |
+| **Operating Systems** | Windows (Event Logs), Linux (Kali, Ubuntu) |
+| **Frameworks** | MITRE ATT&CK, NIST CSF, OWASP, ISO 27001 (Awareness) |
+| **Tools** | Kali Linux, Docker, GitHub |
 
-📁 Featured Projects
-🔬 Hybrid Forensic Framework for Data Breach Analysis
-Built a hybrid forensic pipeline integrating Autopsy, Volatility 3, and machine learning (TensorFlow, scikit-learn, PyCaret) to detect fileless malware and insider threats. Achieved 0.98 F1-score in malware classification. Directly applicable to enterprise SOC and incident response workflows.
+## 📁 Featured Projects
+ 
+### 🔬 [Hybrid Forensic Framework for Data Breach Analysis](../hybrid-forensic-framework)
+Built a hybrid forensic pipeline integrating Autopsy, Volatility 3, and machine learning (TensorFlow, scikit-learn, PyCaret) to detect fileless malware and insider threats. Achieved **0.98 F1-score** in malware classification. Directly applicable to enterprise SOC and incident response workflows.
 
-💼 Experience
-SOC Analyst Intern · Ed Vedha EdTech Pvt. Ltd. · Sep 2024 – Apr 2025
+## 💼 Experience
+ 
+**SOC Analyst Intern** · Ed Vedha EdTech Pvt. Ltd. · Sep 2024 – Apr 2025  
 Monitored network traffic and security events across payment systems using Splunk and Wireshark. Conducted vulnerability assessments with OpenVAS, supported incident investigations, and maintained documentation within ticketing systems.
-MSc Cybersecurity · University of Hertfordshire, UK · 2023–2025 · Commendation
-BEng Computer Science · Siddarth Institutions of Science and Technology · 2017–2021 · First Class
-
-📜 Certifications
-
-🔄 CompTIA Security+ (SY0-701) — In Progress
-✅ Junior Security Analyst — TryHackMe
-✅ Certified Professional Ethical Hacker (CPEH) — Udemy
-✅ SOC Member — LetsDefend
+ 
+**MSc Cybersecurity** · University of Hertfordshire, UK · 2023–2025 · *Commendation*  
+**BEng Computer Science** · Siddarth Institutions of Science and Technology · 2017–2021 · *First Class*
+ 
+---
+ 
+## 📜 Certifications
+ 
+- 🔄 **CompTIA Security+ (SY0-701)** — In Progress
+- ✅ **Junior Security Analyst** — TryHackMe
+- ✅ **Certified Professional Ethical Hacker (CPEH)** — Udemy
+- ✅ **SOC Member** — LetsDefend
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
