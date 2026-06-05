@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Cybersecurity Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/61d655039bf8b853fa33d08f0237a83db2e5c78da6d564535a000e5825b8f6e7/68747470733a2f2f626c6f672e696d617274696375732e6f72672f77702d636f6e74656e742f75706c6f6164732f323032312f31322f646a62776766772e676966">
 
-🔐 About Me
+*🔐 About Me*
 I'm a cybersecurity professional with hands-on SOC Analyst experience, specialising in threat detection, SIEM-based monitoring, and incident response. My background combines a strong academic foundation with real-world security operations — monitoring live payment systems, triaging security events, and conducting vulnerability assessments.
 I bring an engineering mindset to security: structured, methodical, and focused on measurable outcomes. Currently completing CompTIA Security+ (SY0-701) and actively targeting SOC and cybersecurity operations roles in the UK.
 
