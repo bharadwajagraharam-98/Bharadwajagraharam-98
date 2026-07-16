@@ -29,10 +29,6 @@ I bring an engineering mindset to security: structured, methodical, and focused 
 ### 🔬 [Hybrid Forensic Framework for Data Breach Analysis](../hybrid-forensic-framework)
 Built a hybrid forensic pipeline integrating Autopsy, Volatility 3, and machine learning (TensorFlow, scikit-learn, PyCaret) to detect fileless malware and insider threats. Achieved **0.98 F1-score** in malware classification. Directly applicable to enterprise SOC and incident response workflows.
 
-## 💼 Experience
- 
-**SOC Analyst Intern** · Ed Vedha EdTech Pvt. Ltd. · Sep 2024 – Apr 2025  
-Monitored network traffic and security events across payment systems using Splunk and Wireshark. Conducted vulnerability assessments with OpenVAS, supported incident investigations, and maintained documentation within ticketing systems.
  
 **MSc Cybersecurity** · University of Hertfordshire, UK · 2023–2025 · *Commendation*  
 **BEng Computer Science** · Siddarth Institutions of Science and Technology · 2017–2021 · *First Class*
